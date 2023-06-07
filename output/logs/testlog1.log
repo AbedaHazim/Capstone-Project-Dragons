@@ -3243,3 +3243,91 @@
 2023-06-04 14:17:38,754 [main] INFO logger_file - New account button was clicked
 2023-06-04 14:17:39,386 [main] INFO logger_file - Registration info entered
 2023-06-04 14:17:39,681 [main] INFO logger_file - Sign up button was clicked
+2023-06-06 21:12:16,077 [main] INFO logger_file - User is on retail website
+2023-06-06 21:12:16,989 [main] INFO logger_file - user click on All section option successfully
+2023-06-06 21:12:21,451 [main] INFO logger_file - User is on retail website
+2023-06-06 21:12:21,874 [main] INFO logger_file - user click on All section option successfully
+2023-06-06 21:12:25,686 [main] INFO logger_file - User is on retail website
+2023-06-06 21:12:26,168 [main] INFO logger_file - user click on All section option successfully
+2023-06-06 21:12:32,199 [main] INFO logger_file - User is on retail website
+2023-06-06 21:12:32,593 [main] INFO logger_file - user click on All section option successfully
+2023-06-06 21:12:37,256 [main] INFO logger_file - User is on retail website
+2023-06-06 21:12:37,755 [main] INFO logger_file - user click on All section option successfully
+2023-06-06 21:12:41,777 [main] INFO logger_file - User is on retail website
+2023-06-06 21:12:42,175 [main] INFO logger_file - user click on All section option successfully
+2023-06-06 21:12:45,949 [main] INFO logger_file - User is on retail website
+2023-06-06 21:12:46,308 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 21:12:47,002 [main] INFO logger_file - abeda.hazem123@tekschool.usemail was entered successfully
+2023-06-06 21:12:47,003 [main] INFO logger_file - Tek@1234password was entered successfully
+2023-06-06 21:12:47,233 [main] INFO logger_file - user was able to login successfully
+2023-06-06 21:12:47,255 [main] INFO logger_file - User logged in into the account
+2023-06-06 21:12:48,845 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-06 21:12:49,444 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-06 21:12:49,772 [main] INFO logger_file - search button was clicked successfully
+2023-06-06 21:12:56,114 [main] INFO logger_file - User clicked the item successfully
+2023-06-06 21:12:56,413 [main] INFO logger_file - 2 was selected
+2023-06-06 21:12:56,659 [main] INFO logger_file - User added to cart successfully
+2023-06-06 21:12:56,662 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-06 21:13:02,748 [main] INFO logger_file - User is on retail website
+2023-06-06 21:13:03,101 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 21:13:03,812 [main] INFO logger_file - abeda.hazem123@tekschool.usemail was entered successfully
+2023-06-06 21:13:03,813 [main] INFO logger_file - Tek@1234password was entered successfully
+2023-06-06 21:13:04,045 [main] INFO logger_file - user was able to login successfully
+2023-06-06 21:13:04,063 [main] INFO logger_file - User logged in into the account
+2023-06-06 21:13:05,954 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-06 21:13:06,439 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-06 21:13:06,681 [main] INFO logger_file - search button was clicked successfully
+2023-06-06 21:13:07,473 [main] INFO logger_file - User clicked the item successfully
+2023-06-06 21:13:12,927 [main] INFO logger_file - 5 was selected
+2023-06-06 21:13:13,184 [main] INFO logger_file - User added to cart successfully
+2023-06-06 21:13:13,185 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-06 21:13:13,465 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-06 21:13:13,769 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-06 21:13:13,975 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-06-06 21:13:14,628 [main] INFO logger_file - User was able to see the message
+2023-06-06 21:13:19,041 [main] INFO logger_file - User is on retail website
+2023-06-06 21:13:19,535 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 21:13:20,459 [main] INFO logger_file - abeda.hazem123@tekschool.usemail was entered successfully
+2023-06-06 21:13:20,459 [main] INFO logger_file - Tek@1234password was entered successfully
+2023-06-06 21:13:20,692 [main] INFO logger_file - user was able to login successfully
+2023-06-06 21:13:20,712 [main] INFO logger_file - User logged in into the account
+2023-06-06 21:13:21,568 [main] INFO logger_file - User was able to click on orders section
+2023-06-06 21:13:22,024 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-06 21:13:22,618 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-06 21:13:23,148 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-06 21:13:23,419 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-06 21:13:23,420 [main] INFO logger_file - User was able to see the message
+2023-06-06 21:13:27,148 [main] INFO logger_file - User is on retail website
+2023-06-06 21:13:27,481 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 21:13:28,169 [main] INFO logger_file - abeda.hazem123@tekschool.usemail was entered successfully
+2023-06-06 21:13:28,169 [main] INFO logger_file - Tek@1234password was entered successfully
+2023-06-06 21:13:28,387 [main] INFO logger_file - user was able to login successfully
+2023-06-06 21:13:28,405 [main] INFO logger_file - User logged in into the account
+2023-06-06 21:13:29,281 [main] INFO logger_file - User was able to click on orders section
+2023-06-06 21:13:30,241 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-06-06 21:13:30,803 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-06 21:13:31,044 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-06-06 21:13:31,045 [main] INFO logger_file - User was able to see the message
+2023-06-06 21:13:37,221 [main] INFO logger_file - User is on retail website
+2023-06-06 21:13:37,528 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 21:13:38,232 [main] INFO logger_file - abeda.hazem123@tekschool.usemail was entered successfully
+2023-06-06 21:13:38,232 [main] INFO logger_file - Tek@1234password was entered successfully
+2023-06-06 21:13:38,451 [main] INFO logger_file - user was able to login successfully
+2023-06-06 21:13:38,466 [main] INFO logger_file - User logged in into the account
+2023-06-06 21:13:39,289 [main] INFO logger_file - User was able to click on orders section
+2023-06-06 21:13:40,144 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-06 21:13:41,170 [main] INFO logger_file - User was able to write review successfully
+2023-06-06 21:13:41,390 [main] INFO logger_file - User was able to add review successfully
+2023-06-06 21:13:42,054 [main] INFO logger_file - User was able to see the message
+2023-06-06 21:13:45,715 [main] INFO logger_file - User is on retail website
+2023-06-06 21:13:46,022 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 21:13:46,047 [main] INFO logger_file - User logged in into the account
+2023-06-06 21:13:46,721 [main] INFO logger_file - abeda.hazem123@tekschool.usemail was entered successfully
+2023-06-06 21:13:46,722 [main] INFO logger_file - Tek@1234password was entered successfully
+2023-06-06 21:13:46,942 [main] INFO logger_file - user was able to login successfully
+2023-06-06 21:13:50,942 [main] INFO logger_file - User is on retail website
+2023-06-06 21:13:51,256 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 21:13:51,288 [main] INFO logger_file - User logged in into the account
+2023-06-06 21:13:51,592 [main] INFO logger_file - New account button was clicked
+2023-06-06 21:13:52,751 [main] INFO logger_file - Registration info entered
+2023-06-06 21:13:52,966 [main] INFO logger_file - Sign up button was clicked

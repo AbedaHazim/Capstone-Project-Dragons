@@ -1,4 +1,4 @@
-@smoke
+@Regression
 Feature: Retail Account
 
   Background: 
@@ -8,14 +8,14 @@ Feature: Retail Account
     And User click on login button
     And User should be logged in into Account
 
-  @Account @smoke
+  @Account @Regression
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'Abeda' and Phone '918-123-9900'
+    And User update Name 'Diba' and Phone '918-123-9901'
     And User click on Update button
     Then user profile information should be updated
 
-  @AccountUdate @smoke
+  @AccountUdate @Regression
   Scenario: Verify User can add a payment method
     When User click on Account option
     And User click on Add a payment method link
@@ -25,7 +25,7 @@ Feature: Retail Account
     And User click on Add your card button
     Then a message should be displayed 'Payment Method added sucessfully'
 
-  @EditPaymentAccount @smoke
+  @EditPaymentAccount @Regression
   Scenario: Verify User can edit Debit or Credit card
     When User click on Account option
     And User click on Edit option of card section
@@ -35,13 +35,13 @@ Feature: Retail Account
     And user click on Update Your Card button
     Then a message should be displayed 'Payment Method updated Successfully'
 
-  @remove @smoke
+  @remove @Regression
   Scenario: Verify User can remove Debit or Credit card
     When User click on Account option
     And User click on remove option of card section
     Then payment details should be removed
 
-  @AddAddress @smoke
+  @AddAddress @Regression
   Scenario: Verify User can add an Address
     When User click on Account option
     And User click on Add address option
@@ -50,7 +50,7 @@ Feature: Retail Account
       | United States | Abeda    | 444-333-2222 | 2666 Cattage Way |  78 | Sacramento | California |   95679 |
     And User click Add Your Address button
     Then a message should be displayed 'Address Added Successfully’
-@updateAddress @smoke
+@updateAddress @Regression
   Scenario: Verify User can edit an Address added on account
     When User click on Account option
     And User click on edit address option
@@ -59,7 +59,7 @@ Feature: Retail Account
       | United States   | Abeda   | 555-222-5654       | 10891 Coloma Road | 62 | Sacramento|   California | 95670   |
     And User click update Your Address button
     Then a message should be displayed 'Address Updated Successfully’
-@removeAdress @smoke
+@removeAdress @Regression
   Scenario: Verify User can remove Address from Account
     When User click on Account option
     And User click on remove option of Address section
