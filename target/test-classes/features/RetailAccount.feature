@@ -11,7 +11,7 @@ Feature: Retail Account
   @Account @Regression
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'Diba' and Phone '918-123-9901'
+    And User update Name 'Abeda' and Phone '918-123-9900'
     And User click on Update button
     Then user profile information should be updated
 
