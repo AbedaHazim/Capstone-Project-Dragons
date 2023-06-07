@@ -14,7 +14,7 @@ import io.cucumber.junit.CucumberOptions;
 //@runWith is JUnite annotation 
 @RunWith(Cucumber.class)
 @CucumberOptions( 
-		tags="@smoke",
+		tags="@Regression",
 		features=("classpath:features"),
 		glue = "tek.capstone.dragons",
 		dryRun =false,

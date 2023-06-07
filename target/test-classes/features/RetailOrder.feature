@@ -1,11 +1,11 @@
-@smoke
+@Regression 
 Feature: Retail Order Page
 
   Background: 
     Given User is on retail website
     When User click on Sign in option
 
-  @AddItrmToCard @smoke
+  @AddItrmToCard @Regression 
   Scenario: Verify User can add an item to cart
     And User enter email 'abeda.hazem123@tekschool.us' and password 'Tek@1234'
     And User click on login button
@@ -18,7 +18,7 @@ Feature: Retail Order Page
     And User click add to Cart button
     Then the cart icon quantity should change to '2'
 
-  @placeOrder @smoke
+  @placeOrder @Regression 
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     And User enter email 'abeda.hazem123@tekschool.us' and password 'Tek@1234'
     And User click on login button
@@ -35,7 +35,7 @@ Feature: Retail Order Page
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks
 
-  @retrunOrder @smoke
+  @retrunOrder @Regression 
   Scenario: Verify User can Return the order
     And User enter email 'abeda.hazem123@tekschool.us' and password 'Tek@1234'
     And User click on login button
@@ -47,7 +47,7 @@ Feature: Retail Order Page
     And User click on Return Order button
     Then a cancelation message should be displayed "Return was successful"
 
-  @cancleOrder @smoke
+  @cancleOrder @Regression 
   Scenario: Verify User can cancel the order
     And User enter email 'abeda.hazem123@tekschool.us' and password 'Tek@1234'
     And User click on login button
@@ -59,7 +59,7 @@ Feature: Retail Order Page
     And User click on Cancel Order button
     Then a cancelation message should be displayed 'Your Order Has Been Cancelled’
 
-  @sendReview @smoke
+  @sendReview @Regression 
   Scenario: Verify User can write a review on order placed
     And User enter email 'abeda.hazem123@tekschool.us' and password 'Tek@1234'
     And User click on login button
